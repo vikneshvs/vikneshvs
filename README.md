@@ -28,15 +28,17 @@ I'm **[`VIKNESH V S`](https://www.linkedin.com/in/viknesh-v-s-soc/)**, a Certifi
     <img src="https://img.shields.io/badge/SIEM-00A4EF?style=for-the-badge&logo=securityscorecard&color=000000" alt="SIEM" /> 
     <img src="https://img.shields.io/badge/Log_Analysis-4CAF50?style=for-the-badge&logo=files&color=000000" alt="Log Analysis" />
     <img src="https://img.shields.io/badge/Log_Management-FF6633?style=for-the-badge&color=000000" alt="Log Management" />
+    <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&color=000000" alt="VirusTotal" />
     <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&color=000000" alt="HTML" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
+     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
 
 
