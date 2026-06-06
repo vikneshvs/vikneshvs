@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **[`VIKNESH V S`](https://www.linkedin.com/in/viknesh-v-s-soc/)**, a Certified SOC Analyst,  with a technical background in Computer Hardware Engineering.  Proficient in SIEM operations, Log analysis, Log monitoring, Log management, and Tools such  as Virus Total, SQL map, Wireshark, Burp Suite and using Splunk,Wazuh with hands-on experience in  identifying vulnerabilities. Demonstrated expertise through specialized labs and intensive SOC  training. Dedicated to proactive threat detection and seeking to launch a career as a Tier 1 SOC  Analyst/ Cybersecurity Fresher.
+I'm **[`VIKNESH V S`](https://www.linkedin.com/in/viknesh-v-s-soc/)**, a Certified SOC Analyst,  with a technical background in Computer Hardware Engineering.  Proficient in SIEM operations, Log analysis, Log monitoring, Log management, and Tools such  as Virus Total, SQL map, Wireshark, Burp Suite and using Splunk,Wazuh with hands-on experience in  identifying vulnerabilities. Demonstrated expertise through specialized labs and intensive SOC  training. Dedicated to proactive threat detection and seeking to launch a career as SOC  Analyst/ Cybersecurity Fresher.
 
 <a href="https://www.linkedin.com/in/viknesh-v-s-soc/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
