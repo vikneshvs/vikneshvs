@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **[`VIKNESH V S`](https://www.linkedin.com/in/viknesh-v-s-soc/)**, a Certified SOC Analyst, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
+I'm **[`VIKNESH V S`](https://www.linkedin.com/in/viknesh-v-s-soc/)**, a Certified SOC Analyst,  with a technical background in Computer Hardware Engineering.  Proficient in SIEM operations, Log analysis, Log monitoring, Log management, and Tools such  as Virus Total, SQL map, Wireshark, Burp Suite and using Splunk,Wazuh with hands-on experience in  identifying vulnerabilities. Demonstrated expertise through specialized labs and intensive SOC  training. Dedicated to proactive threat detection and seeking to launch a career as a Tier 1 SOC  Analyst/ Cybersecurity Fresher.
 
-<a href="https://linkedin.com/scratch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/viknesh-v-s-soc/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
