@@ -9,7 +9,7 @@ I'm **[`VIKNESH V S`](https://www.linkedin.com/in/viknesh-v-s-soc/)**, a Certifi
 
 - **Name**: VIKNESH V S
 - **From**: India
-- **SOC Analyst** | **Log Analysis** | **Vulnerability Management and Assessment** | **SIEM**  | **Threat Management** 
+- SOC Analyst | Log Analysis | Vulnerability Assessment & Management | SIEM Monitoring | Threat Detection & Incident Response 
 - I have experience in Log Analysis,SIEM Tools, vulnerability assessment, penetration testing, and social engineering.
 - I’m currently developing my expertise in Security Operations Center (SOC) operations, cybersecurity monitoring, threat detection, incident response, network security, and industry-recognized cybersecurity certifications.
 
