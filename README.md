@@ -48,11 +48,9 @@ I'm **[`VIKNESH V S`](https://www.linkedin.com/in/viknesh-v-s-soc/)**, a Certifi
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="CSA Certification" />
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CISCO Threat Management Certification" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CICSACertification" />
-
-</div>
+<img src="https://img.shields.io/badge/CSA-Certified-red?style=for-the-badge&color=000000" alt="CSA Certification" />
+<img src="https://img.shields.io/badge/Cisco-Cyber%20Threat%20Management-red?style=for-the-badge&color=000000" alt="Cisco Cyber Threat Management Certification" />
+<img src="https://img.shields.io/badge/CICSA-Certified-red?style=for-the-badge&color=000000" alt="CICSA Certified IT Infrastructure & Cyber SOC Analyst" /></div>
 
 ---
 
