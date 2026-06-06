@@ -25,7 +25,10 @@ I'm **[`VIKNESH V S`](https://www.linkedin.com/in/viknesh-v-s-soc/)**, a Certifi
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/SIEM-00A4EF?style=for-the-badge&logo=securityscorecard&color=000000" alt="SIEM" /> 
+    <img src="https://img.shields.io/badge/Log_Analysis-4CAF50?style=for-the-badge&logo=files&color=000000" alt="Log Analysis" />
+    <img src="https://img.shields.io/badge/Log_Management-FF6633?style=for-the-badge&color=000000" alt="Log Management" />
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
