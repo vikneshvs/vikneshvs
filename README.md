@@ -59,7 +59,7 @@ I'm **[`VIKNESH V S`](https://www.linkedin.com/in/viknesh-v-s-soc/)**, a Certifi
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[Wazuh SIEM Deployment & File Integrity Monitoring](https://github.com/vikneshvs/WAZUH-Home-Lab---SIEM-and-File-Integrity-Monitoring)**    | This project involves setting up a private virtual lab using Wazuh to create a self-hosted SIEM/XDR platform. Its main goal is to enable real-time security monitoring and centralized data collection across different operating systems. |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
